@@ -69,14 +69,18 @@ To run the project locally, follow these steps:
    ```bash
      git clone https://github.com/your-username/django-authentication-project.git
 2. **Navigate to Project Directory**:
+ ```bash
     cd django-authentication-project
-3. **Create Virtual Environment: (optional but recommended)**
-4. **Install Dependencies**:
-     pip install -r requirements.txt
-5. **Apply Migrations:**
-     python manage.py migrate
-6. **Run Development Server:**
-     python manage.py runserver
-7. **Access APIs**:
+4. **Create Virtual Environment: (optional but recommended)**
+5. **Install Dependencies**:
+ ```bash
+    pip install -r requirements.txt
+6. **Apply Migrations:**
+ ```bash
+    python manage.py migrate
+7. **Run Development Server:**
+ ```bash
+    python manage.py runserver
+8. **Access APIs**:
 The project should now be running locally. Access the API endpoint at http://localhost:8000/api/login or http://localhost:8000/api/register.
 
