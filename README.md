@@ -71,7 +71,7 @@ To run the project locally, follow these steps:
    
 2. **Navigate to Project Directory**:
     ```bash
-        cd django-authentication-project
+        cd myproject
     
 4. **Create Virtual Environment: (optional but recommended)**
 5. **Install Dependencies**:
