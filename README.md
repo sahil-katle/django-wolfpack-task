@@ -79,11 +79,9 @@ To run the project locally, follow these steps:
         pip install -r requirements.txt
    
 7. **Apply Migrations:**
- ```bash
     python manage.py migrate
 
 8. **Run Development Server:**
- ```bash
     python manage.py runserver
 
 8. **Access APIs**:
